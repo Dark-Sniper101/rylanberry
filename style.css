@@ -1,0 +1,16 @@
+img{
+  width: 200px;
+}
+body{
+  text-align: center;
+  font-family: Helvetica, system-ui;
+  background-color: black;
+  color: greenyellow;
+}
+.deez{
+  color: red;
+}
+.clickable{
+  cursor: pointer;
+			margin: 15px 0;
+}
